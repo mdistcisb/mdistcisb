@@ -56,8 +56,6 @@ body{
     text-align: center;
 }
 
-
-
 @media(max-width:756px) {
     .position{
         font-size: 35px;
@@ -77,4 +75,3 @@ body{
         overflow: hidden;
     }
 }
-
